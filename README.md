@@ -9,4 +9,4 @@ You are invited to analize a set of documents, characterized by title and abstra
 * use NLP techniques to preprocess data
 * use topic modeling to identify labels in order to classify the considered documents
 
-Contact professor to receive data.
+Contact professor for any questions.
